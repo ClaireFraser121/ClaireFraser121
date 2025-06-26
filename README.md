@@ -61,16 +61,16 @@ If you’re curious about...
 
 ...I’d love to connect.
 
-📫 [LinkedIn](https://www.linkedin.com/in/claire-fraser121/)  
+📫 [LinkedIn]([https://www.linkedin.com/in/claire-fraser121/](https://www.linkedin.com/in/claire-fraser-5a9230280/))  
 🌐 Portfolio: *coming soon*  
-📬 Email: claire.codes.creates [at] gmail [dot] com
+📬 Email: clairefraser121@gmail.com
 
 ---
 
 **“Creativity is structure in motion.”**  
 Thanks for visiting. Let’s build something real. 🚀
 
-- 📫 How to reach me: clairefraser121@gmail.com
+
 
 <!---
 ClaireFraser121/ClaireFraser121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
